@@ -9,9 +9,3 @@ Skills : Android | Java | C | JS | HTML | CSS
 - ⚡ : Even if you're not ready for the day, it cannot always be night 😂 
 
    [<img src='src\twitter.png' alt='twitter' height='40'>](https://twitter.com/rshinjith)  [<img src='src/github.png' alt='github' height='40'>](https://github.com/WhiteWolfDot)  [<img src='src\instagram.png' alt='instagram' height='40'>](https://www.instagram.com/shinjith_/)  [<img src='src\facebook.png' alt='facebook' height='40'>](https://www.facebook.com/shinjith.kanhangad)  [<img src='src\linkedin.png' alt='linkedin' height='40'>](https://in.linkedin.com/in/shinjithkanhangad)
-
-![](https://gpvc.arturio.dev/WhiteWolfDot)  
-
-![GitHub metrics](https://metrics.lecoq.io/WhiteWolfDot)  
-
- 
