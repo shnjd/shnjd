@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Shinjith
 ### Aspiring software developer
 
-Skills : Android | Java | C | JS | HTML | CSS
+Skills : Android | ReactJS | Java | C | JS | HTML | CSS
 
 - 🔭 I’m currently working on [Chat Interface](https://github.com/WhiteWolfDot/ChatApp) 
 - 🌱 I’m currently learning React and NodeJS 
