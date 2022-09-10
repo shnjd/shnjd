@@ -3,7 +3,7 @@
 
 Skills : Android | ReactJS | Java | C | C++ | JS | HTML | CSS |Bootstrap 
 
-- 🔭 I’m currently working on [basic-javascript-projects](https://github.com/shinjith-dev/basic-javascript-projects) 
+- 🔭 I’m currently working on [basic-javascript-projects](https://github.com/shinjith-dev/basic-javscript-projects) 
 - 🌱 I’m currently learning NodeJS 
 - 📫 Reach me on [Instagram](https://www.instagram.com/shinjith_/)
 
