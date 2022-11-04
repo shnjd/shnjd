@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Shinjith
 ### Aspiring software developer
 
-Skills : Android | ReactJS | Java | C | C++ | JS | HTML | CSS |Bootstrap 
+Skills : Android | ReactJS | NodeJs | MongoDB | Javascript | Java | C | C++ | HTML | CSS | Bootstrap | MaterialUI
 
 - 🔭 I’m currently working on [basic-javascript-projects](https://github.com/shinjith-dev/basic-javscript-projects) 
-- 🌱 I’m currently learning NodeJS 
+- 🌱 I’m currently learning Angular 
 - 📫 Reach me on [Instagram](https://www.instagram.com/shinjith_/)
 
 ![](https://raw.githubusercontent.com/shinjith-dev/stats/master/generated/overview.svg#gh-dark-mode-only)
