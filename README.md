@@ -9,7 +9,7 @@ Skills : Android | ReactJS | Java | C | C++ | JS | HTML | CSS |Bootstrap
 
 ![](https://raw.githubusercontent.com/shinjith-dev/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/shinjith-dev/stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/shinjith-dev/stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/shinjith-dev/stats/master/generated/languages.svg#gh-light-mode-only)
 
    [<img src='src\twitter.png' alt='twitter' height='40'>](https://twitter.com/rshinjith)  [<img src='src/github.png' alt='github' height='40'>](https://github.com/WhiteWolfDot)  [<img src='src\instagram.png' alt='instagram' height='40'>](https://www.instagram.com/shinjith_/)  [<img src='src\facebook.png' alt='facebook' height='40'>](https://www.facebook.com/shinjith.kanhangad)  [<img src='src\linkedin.png' alt='linkedin' height='40'>](https://in.linkedin.com/in/shinjithkanhangad)
