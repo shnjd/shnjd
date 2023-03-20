@@ -5,7 +5,7 @@ Technologies : React | Javascript | MaterialUI | React-native | Bootstrap & Tail
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning MERN
-- 📫 Reach me on [Instagram](https://www.instagram.com/shinjith_/)
+- 📫 Reach me on [@shinjith_](https://www.instagram.com/shinjith_/)
 
 ![](https://raw.githubusercontent.com/shinjith-dev/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/shinjith-dev/stats/master/generated/overview.svg#gh-light-mode-only)
