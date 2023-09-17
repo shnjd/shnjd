@@ -4,7 +4,7 @@
  💼 Frontend developer at [TGH Tech](https://www.tghtech.com/)<br />
  🧑‍🎓 Engineering student at [LBS College of Engineering](https://lbscek.ac.in/)<br />
 
-[<img src='src\twitter.png' alt='twitter' height='40'>](https://twitter.com/shinjith_)  [<img src='src/github.png' alt='github' height='40'>](https://github.com/shinjith-dev)  [<img src='src\instagram.png' alt='instagram' height='40'>](https://www.instagram.com/shinjith_/)  [<img src='src\facebook.png' alt='facebook' height='40'>](https://www.facebook.com/shinjith.kanhangad)  [<img src='src\linkedin.png' alt='linkedin' height='40'>](https://in.linkedin.com/in/shinjithkanhangad)
+[<img src='src\twitter.png' alt='twitter' height='30'>](https://twitter.com/shinjith_)  [<img src='src/github.png' alt='github' height='30'>](https://github.com/shinjith-dev)  [<img src='src\instagram.png' alt='instagram' height='30'>](https://www.instagram.com/shinjith_/)  [<img src='src\facebook.png' alt='facebook' height='30'>](https://www.facebook.com/shinjith.kanhangad)  [<img src='src\linkedin.png' alt='linkedin' height='30'>](https://in.linkedin.com/in/shinjithkanhangad)
 
 ### 🔥 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=shinjith-dev&theme=whatsapp-dark&hide_border=true&border_radius=16&card_width=600)](https://git.io/streak-stats)
