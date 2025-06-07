@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Shinjith
 
-Full stack developer from Kerala, India.<br/>Currently working on [Profezzor](https://github.com/shinjith-dev/profezzor-frontend).<br />Trying to learn almost everything on late nights :)<br />
+Full stack developer from Kerala, India.<br/>Currently working on [Wakalyst](https://github.com/shinjith-dev/wakalyst).<br />Trying to learn almost everything on late nights :)<br />
 
 [![shinjith.dev](https://img.shields.io/badge/shinjith.dev-1C2335?style=for-the-badge&logo=stripe&logoColor=ffffff&logoSize=auto)](https://shinjith.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/shinjith_) [![DEV.TO](https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=dev.to&logoColor=ffffff)](https://dev.to/shinjithdev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/shinjith.kanhangad) [![HackerRank](https://img.shields.io/badge/hackerRank-068932?style=for-the-badge&logo=hackerrank&logoColor=ffffff&logoSize=auto)](https://www.hackerrank.com/profile/WhiteWolf01) [![LeetCode](https://img.shields.io/badge/leetcode-ffab16?style=for-the-badge&logo=leetcode&logoColor=ffffff)](https://leetcode.com/u/shinjith) 
 
