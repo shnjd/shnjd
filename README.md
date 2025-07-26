@@ -2,9 +2,9 @@
 
 ### Hey 👋, I'm Shinjith
 
-Web Developer who specializes in creating<br />
-pixel-perfect, engaging, and accessible digital experiences.<br />
-Currently, I'm concentrating on developing useful web projects and learning new things.
+A web developer based in Kerala, India, who specializes in creating<br />
+pixel-perfect, engaging, and accessible digital experiences. Currently,<br />
+I'm concentrating on developing useful web projects and learning new things.
 
 > *Building by day, breaching by night.*
 
