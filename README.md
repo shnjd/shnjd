@@ -10,6 +10,4 @@ Currently, I'm concentrating on developing useful web projects and learning new 
 
 ------
 
-<p align="center">
 [Linkedin](https://www.linkedin.com/in/shinjithkanhangad) | [X (Twitter)](https://twitter.com/shnjd_) | [Website](https://shnjd.com/)
-</p>
