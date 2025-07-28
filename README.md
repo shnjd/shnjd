@@ -2,12 +2,11 @@
 
 ### Hey 👋, I'm Shinjith
 
-Web developer based in Kerala, India, who specializes in creating<br />
-pixel-perfect, engaging, and accessible digital experiences. Currently,<br />
-I'm concentrating on developing useful web projects and learning new things.
+A front-end developer,<br /> 
+building useful web projects.
 
+![WakaTime Stats](https://wakatime.com/share/@shinjith/d4cd4c6e-96b2-4088-a059-6eb057fdad6f.svg)
+    
 > *Building by day, breaching by night.*
 
-------
-
-[Linkedin](https://www.linkedin.com/in/shinjithkanhangad) | [X (Twitter)](https://twitter.com/shnjd_) | [Website](https://shnjd.com/)
+[Linkedin](https://www.linkedin.com/in/shinjithkanhangad) / [X (Twitter)](https://twitter.com/shnjd_) / [Website](https://shinjith.dev/)
