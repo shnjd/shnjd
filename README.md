@@ -11,5 +11,5 @@
 > *<p align="center">Building by day, breaching by night.</p>*
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/shinjithkanhangad">Linkedin</a> / <a href="https://twitter.com/shnjd_">X (Twitter)</a> / <a href="https://shinjith.dev/">Website</a>
+    <a href="https://www.linkedin.com/in/shinjithkanhangad">Linkedin</a> / <a href="https://twitter.com/shnjd_">X (Twitter)</a> / <a href="https://shinjith.dev/">Website</a> // <a href="https://octo-ring.com/">Octo Ring</a> - <a href="https://octo-ring.com/p/shnjd/prev">Prev</a>, <a href="https://octo-ring.com/p/shnjd/random">Random</a>, <a href="https://octo-ring.com/p/shnjd/next">Next</a>
 </p>
